@@ -1,0 +1,36 @@
+body {
+    background-color: #343b42;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #fdb825;
+    border-width: 8px;
+    width: 64px;
+}
+
+h1 {
+    color: #fdb825
+}
+
+h3 {
+    color: #66bfbf
+}
+
+img {
+    max-width: 225px;
+    height: auto;
+  }
+
+p {
+    color: lightgrey;
+}
+
+li {
+    color: lightgrey;
+}
+
+td {
+    color: lightgrey;
+}
